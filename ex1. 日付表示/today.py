@@ -1,3 +1,5 @@
+#FBD-ID: shogo_aoki
+
 import datetime
 
 Today = datetime.date.today()
